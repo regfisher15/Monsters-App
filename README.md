@@ -1,3 +1,6 @@
+# Monsters App
+This repository is a project built using react that displays a list of monsters, and allows a user to filter through them using a search box. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
